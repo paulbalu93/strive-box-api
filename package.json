@@ -1,11 +1,12 @@
 {
   "name": "m5-w1-recap-api",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon -e js -r dotenv/config ./src/server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,8 @@
     "express-list-endpoints": "^5.0.0",
     "express-validator": "^6.10.0",
     "fs-extra": "^9.1.0",
-    "nodemon": "^2.0.7"
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7",
+    "uniqid": "^5.3.0"
   }
 }
