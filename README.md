@@ -28,6 +28,6 @@ Just run it will install following dependencies for you.
 
 ```
 
-If you id all these 👆 instructions , you are good to go. 🚀
+If you followed all these 👆 instructions , you are good to go. 🚀
 
 🧑‍💻 We are going to start creating server together.
